@@ -8,7 +8,7 @@ Sharks are at the top of the food chain. The ocean predators follow their instin
 
 The vast majority of shark incidents are mistakes, they assume something we are not. To a shark, a surfer paddling on a surfboard can look a lot like its typical prey.
 
-![](/Users/Jaime/Downloads/Shark.jpg)
+![](/Users/Jaime/Project2-DATA_CLEANING/Shark.jpg)
 
 Considering surfers rarely provoke a shark on the water, like maybe scuba divers or swimmers ocasionally do. And the fact that this mistakes sharks make, are statiscally more probable to occur with surfers than with other humans doing other activities that don´t look so alike shark´s usual prey. I think is reasonable to make the follow hypothesis:
 
